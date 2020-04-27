@@ -1,2 +1,2 @@
-# ipc2_proyecto_sql
-Descripción solo de estructura SQL para el proyecto de ERP 
+# Creacion de datos en SQL
+Estructura SQL del proyecto, incluyendo el ingreso de datos actual. 
